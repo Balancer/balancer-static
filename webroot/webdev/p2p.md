@@ -23,3 +23,5 @@ http://www.freedomjs.org/
 http://peerjs.com/
 
 http://peerjs.com/examples
+
+https://peercdn.com/ — пока закрытая бета
