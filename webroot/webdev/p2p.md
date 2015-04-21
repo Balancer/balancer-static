@@ -17,3 +17,6 @@ https://www.peer5.com/ — непонятный статус. Хотя демк�
 https://www.peer5.com/P2PXHR/demos/images/argentina.html
 
 https://github.com/Peer5/P2PXHR
+
+http://www.freedomjs.org/
+
