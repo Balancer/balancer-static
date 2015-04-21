@@ -12,4 +12,6 @@ Tags: [underconstruction]
 
 ## Ссылки
 
-https://www.peer5.com/
+https://www.peer5.com/ — непонятный статус. Хотя демка ленивой загрузки — самое то:
+
+https://www.peer5.com/P2PXHR/demos/images/argentina.html
