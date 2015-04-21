@@ -20,4 +20,6 @@ https://github.com/Peer5/P2PXHR
 
 http://www.freedomjs.org/
 
+http://peerjs.com/
+
 http://peerjs.com/examples
