@@ -1,3 +1,12 @@
+---
+Author: Balancer <balancer@balancer.ru>
+Date:   Wed Apr 15 05:07:25 2015 +0300
+Keywords:
+    - Windows
+    - ISO
+    - инсталляция
+---
+
 # Вопросы установки Windows
 
 ## UltraISO
