@@ -27,7 +27,10 @@ SET global innodb_max_dirty_pages_pct = 0;
 долей таких «грязных» страниц в системе:
 
 ```bash
-$ sudo mysqladmin ext -i10 | grep dirty
+sudo mysqladmin ext -i10 | grep dirty
+```
+
+```
 | Innodb_buffer_pool_bytes_dirty                | 110968832                   |
 | Innodb_buffer_pool_pages_dirty                | 6773                        |
 | Innodb_buffer_pool_bytes_dirty                | 106364928                   |
@@ -49,7 +52,10 @@ $ sudo mysqladmin ext -i10 | grep dirty
 Как только показатель станет близок к нулю и перестанет обновляться — перезапускаем mysql.
 
 ```bash
-$ sudo service mysql restart
+sudo service mysql restart
+```
+
+```
 mysql stop/waiting
 mysql start/running, process 19221
 ```
