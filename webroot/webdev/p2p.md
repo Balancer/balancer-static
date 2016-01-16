@@ -1,5 +1,11 @@
 ---
-Tags: [underconstruction]
+Author: Balancer <balancer@balancer.ru>
+Date:   Wed Apr 22 02:00:33 2015 +0300
+Keywords:
+    - underconstruction
+    - p2p
+    - video
+    - browser
 ---
 
 # Браузерный P2P
