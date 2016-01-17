@@ -1,6 +1,6 @@
 ---
 Author: Balancer <balancer@balancer.ru>
-Date: 2016-01-17 02:21:38.302683391 +0300
+Date: 2016-01-17 02:21:38 +0300
 Keywords:
     - mysql
     - mariadb
