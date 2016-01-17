@@ -1,5 +1,6 @@
 ---
 Author: Balancer <balancer@balancer.ru>
+Date: 17.01.2016 12:05:41 MSK
 Keywords:
     - mysql
     - charset
@@ -8,6 +9,7 @@ Keywords:
     - fix
     - admin
     - администрирование
+    - компьютеры
 ---
 
 # Исправление записи utf8 как latin1 в MySQL
