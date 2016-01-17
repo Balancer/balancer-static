@@ -22,3 +22,7 @@ CONVERT(CAST(CONVERT(field USING latin1) AS BINARY) USING utf8)
 UPDATE ox_campaigns SET campaignname = CONVERT(CAST(CONVERT(campaignname USING latin1) AS BINARY) USING utf8) WHERE campaignname LIKE '%Ð%';
 
 Последний LIKE — чтобы не перекодировались строки, куда уже после исправления кодировки соединения корректный русский запишется.
+
+## Также кросспост в:
+
+* http://juick.com/Balancer/2817886
