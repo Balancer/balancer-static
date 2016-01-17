@@ -7,6 +7,7 @@ Keywords:
     - utf8
     - fix
     - admin
+    - администрирование
 ---
 
 # Исправление записи utf8 как latin1 в MySQL
