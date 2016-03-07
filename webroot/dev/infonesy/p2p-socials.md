@@ -21,3 +21,6 @@ http://syndie.i2p2.de/
 
 * [Cryptosphere](https://github.com/cryptosphere/cryptosphere) — распределенное зашифрованное облачное хранилище на базе модели данных Git.
 
+## Ссылки
+
+* [Список доступных способов анонимизации](retroshare://forum?name=Список+доступных+способов+анонимизации&id=acca02b72f618a7105f270e23d6e36d0&msgid=30d7d59c0275d5e61ce72b8824236c8dfc556d4f)
