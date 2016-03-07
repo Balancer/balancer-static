@@ -1,8 +1,12 @@
 # Основанные на p2p средства коллективного общения
 
+## Подробно:
+
 * [Vole](vole/) — социальная сеть в браузере, без центрального сервера, использует Bittorrent, Go и Ember.js, а также Bittorrent Sync.
 
-## Syndie - distributed forums
+## Коротко:
+
+### Syndie - distributed forums
 
 Syndie — немецкая open-source система для поддержки распределенных форумов.
 
