@@ -141,3 +141,8 @@ Disk:			500 GB
 Net:			100 Mbps
 IPv6:			/128
 Price/mon:		€ 4.99 excl. VAT
+
+## Обзоры и отзывы
+
+* [Где заказать VPS/VDS?](https://www.linux.org.ru/forum/admin/12788639)
+
