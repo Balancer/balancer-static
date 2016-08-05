@@ -1,4 +1,4 @@
-﻿## Cookieless cookies
+## Cookieless cookies
 
 Работает через ETag картинки
 
