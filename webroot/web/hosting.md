@@ -141,5 +141,3 @@ Disk:			500 GB
 Net:			100 Mbps
 IPv6:			/128
 Price/mon:		€ 4.99 excl. VAT
-
-Last server delivered: yesterday at 21:59. 
