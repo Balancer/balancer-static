@@ -54,4 +54,3 @@ $10
 1 CPU
 1024MB Memory
 2000GB Bandwidth
-
