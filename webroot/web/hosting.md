@@ -93,7 +93,7 @@ wmvare powered
 https://www.kimsufi.com/en/servers.xml
 
 KS-2B
-Atom™ N2800
+CPU:	Atom™ N2800
 Cores/Threads: 2c / 4t
 Freq:	1.86 GHz+
 RAM:	4 GB
@@ -101,4 +101,37 @@ Disk:	40 GB SSD
 Net:	100 Mbps	
 IPv6:	/128
 Price/mon:	€ 9.99 excl. VAT 
+
+KS-2E
+CPU:	Atom™ N2800
+Cores/Threads:	2c / 4t
+Freq:	1.86 GHz+
+RAM:	4 GB
+Disk:	2 TB
+Net:	100 Mbps
+IPv6:	/128
+Price/mon:	€ 14.99 excl. VAT 
+
+KS-2A
+CPU:	Atom™ N2800
+Cores/Threads:	2c / 4t
+Freq:	1.86 GHz+
+RAM:	4 GB
+Disk:	1 TB
+Net:	100 Mbps
+IPv6:	/128
+Price/mon:	€ 9.99 excl. VAT 
+
+KS-1
+CPU:			Atom™ N2800	Atom™ D425
+Per.Index:		640			346
+Cores/Threads:	2c / 4t 	1c / 2t
+Freq:			1.86 GHz+	1.8 GHz+
+RAM:			2 GB
+Disk:			500 GB
+Net:			100 Mbps
+IPv6:			/128
+Price/mon:		€ 4.99 excl. VAT
+
+Last server delivered: yesterday at 21:59. 
 
