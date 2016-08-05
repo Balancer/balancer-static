@@ -54,3 +54,37 @@ $10
 1 CPU
 1024MB Memory
 2000GB Bandwidth
+
+## Aruba cloud
+
+https://www.arubacloud.com/
+
+S Small
+Linux
+1 Core Intel® Xeon® E5-2650L v3
+1 GB RAM
+20 GB SSD Storage
+2 TB/month data transfer
+wmvare powered
+1,00 €/month
+
+
+M Medium
+Linux/Windows
+1 Core Intel® Xeon® E5-2650L v3
+2 GB RAM
+40 GB SSD Storage
+5 TB/month data transfer
+wmvare powered
+6,50 €/month
+
+
+L Large
+Linux/Windows
+2 Cores Intel® Xeon® E5-2650L v3
+4 GB RAM
+80 GB SSD Storage
+12 TB/month data transfer
+wmvare powered
+12,50 €/month
+
