@@ -88,3 +88,17 @@ Linux/Windows
 wmvare powered
 12,50 €/month
 
+## Kimsufi
+
+https://www.kimsufi.com/en/servers.xml
+
+KS-2B
+Atom™ N2800
+Cores/Threads: 2c / 4t
+Freq:	1.86 GHz+
+RAM:	4 GB
+Disk:	40 GB SSD
+Net:	100 Mbps	
+IPv6:	/128
+Price/mon:	€ 9.99 excl. VAT 
+
