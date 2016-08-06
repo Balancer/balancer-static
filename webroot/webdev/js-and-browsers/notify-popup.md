@@ -1,4 +1,4 @@
-﻿
+
 ## Toastr
 
 * [Simple JavaScript Notifications with toastr](https://johnpapa.net/toastr100beta/)
