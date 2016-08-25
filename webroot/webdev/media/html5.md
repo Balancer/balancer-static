@@ -1,5 +1,11 @@
 # HTML5 проигрыватели
 
+## Проигрыватели
+
+## Video.js
+
+http://videojs.com/
+
 ## Ссылки
 
 - [Converting FLV to MP4 With FFmpeg The Ultimate Guide [Conversion series Ep. 3]](https://addpipe.com/blog/flv-to-mp4/) [2015-11-25]
@@ -11,3 +17,4 @@
 ## Обзоры и сравнения
 
 - [Top 7 : Best HTML5 media player javascript plugins](http://ourcodeworld.com/articles/read/148/top-7-best-html5-media-player-javascript-plugins) [2016-05-25]
+- [HTML5 видеоплееры](http://vremenno.net/html-css/html5-video-players/) [2010-11-28]
