@@ -12,3 +12,16 @@ cd repo-A-tmp
 git remote rm origin   # for safety
 git filter-branch --tree-filter 'rm -rf $(git ls-files | egrep -v directory1)' -- --all
 ```
+
+## Конвертация Mercurial в Git
+
+http://stackoverflow.com/questions/16037787/convert-mercurial-project-to-git
+
+```bash
+cd ~
+git clone git://repo.or.cz/fast-export.git
+git init git_repo
+cd git_repo
+~/fast-export/hg-fast-export.sh -r /path/to/old/mercurial_repo
+git checkout HEAD
+```
