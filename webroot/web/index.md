@@ -8,6 +8,7 @@
 
 - [Торрент-клиенты](torrent-clients/)
 - [Клиенты Edonkey2000](edonkey/)
+- [Распределённые/p2p файловые системы](distributed-p2p-filesystems/)
 
 ## Движки разные
 
