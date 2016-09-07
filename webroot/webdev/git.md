@@ -13,6 +13,16 @@ git remote rm origin   # for safety
 git filter-branch --tree-filter 'rm -rf $(git ls-files | egrep -v directory1)' -- --all
 ```
 
+Merge files into the new repository
+
+```bash
+git clone git-repository-B-url
+cd git-repository-B-dir
+git remote add repo-A-branch repo-A-tmp-dir
+git pull repo-A-branch master
+git remote rm repo-A-branch
+```
+
 ## Конвертация Mercurial в Git
 
 http://stackoverflow.com/questions/16037787/convert-mercurial-project-to-git
