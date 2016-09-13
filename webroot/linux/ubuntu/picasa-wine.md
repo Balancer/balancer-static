@@ -18,16 +18,27 @@ sudo apt install winetricks
 
 Иначе не поставится ie8
 
+```bash
+sudo wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks -O /usr/bin/winetricks
 ```
-sudo wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks -O /usr/
+
+### 4. Скачиваем cab, который побит в winetricks:
 
 ```bash
 mkdir -p ~/.cache/winetricks/ie8
 wget "https://github.com/Winetricks/winetricks/raw/master/files/winetest.cat" -O ~/.cache/winetricks/ie8/winetest.cat
 ```
 
-### 4. Устанавливаем ie8 32 бит
+### 5. Устанавливаем ie8 32 бит
 
 ```bash
-env WINEARCH=win32 WINEPREFIX=~/.google/picasa/3.0/ winetricks ie8
+env WINEARCH=win32 WINEPREFIX=~/.wine32 winetricks ie8
 ```
+
+### 6. Устанавливаем Picasa
+
+```bash
+env WINEARCH=win32 WINEPREFIX=~/.wine32 wine picasa39-setup.exe
+```
+
+(скачать: http://gateway.ipfs.io/ipfs/QmX27TEgZFqrT1zfo7YhPMhN7q3feGwdmuPLUDpzrz4pZe )
