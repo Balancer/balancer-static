@@ -15,6 +15,7 @@
 - [Flipboard: @Balancer](https://flipboard.com/@Balancer)
 - [Pinterest: balancer73](https://ru.pinterest.com/balancer73/)
 - [Tumblr](http://balancer73.tumblr.com/)
+- [Disqus: balancer73](https://disqus.com/by/balancer73/)
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
