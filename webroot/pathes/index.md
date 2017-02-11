@@ -10,7 +10,7 @@
 - [Juick](http://juick.com/Balancer/)
 - [Twitter](https://twitter.com/balancer73)
 - [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
-- [Instagram](https://www.instagram.com/balancer73/)
+- [Instagram: Balancer73](https://www.instagram.com/balancer73/)
 - [Tumblr](http://balancer73.tumblr.com/)
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
