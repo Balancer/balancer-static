@@ -12,6 +12,7 @@
 - [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
 - [Instagram: Balancer73](https://www.instagram.com/balancer73/)
 - [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/)
+- [Flipboard: @Balancer](https://flipboard.com/@Balancer)
 - [Pinterest: balancer73](https://ru.pinterest.com/balancer73/)
 - [Tumblr](http://balancer73.tumblr.com/)
 - [Reddit](https://www.reddit.com/user/Balancer73/)
