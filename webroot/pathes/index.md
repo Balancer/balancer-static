@@ -30,6 +30,10 @@
 - [Google+](https://plus.google.com/111205326799667468448)
 - [Twitter](https://twitter.com/Balancer_eng)
 
+## Специализированные ресурсы
+
+- [Linux.Org.Ru](https://www.linux.org.ru/people/KRoN73/)
+
 ## Всякая p2p-экзотика
 
 - [GNUSocial](https://quitter.no/balancer)
