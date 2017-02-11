@@ -9,16 +9,16 @@
 - [Одноклассники](https://ok.ru/profile/22648499178) (62)
 - [Facebook](https://vk.com/balancer) (20)
 - [Вконтакте](https://vk.com/balancer) (20)
-- [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
-- [Instagram: Balancer73](https://www.instagram.com/balancer73/)
-- [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/)
-- [Flipboard: @Balancer](https://flipboard.com/@Balancer)
-- [Pinterest: balancer73](https://ru.pinterest.com/balancer73/)
-- [Tumblr](http://balancer73.tumblr.com/)
-- [Disqus: balancer73](https://disqus.com/by/balancer73/)
+- [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/) (12)
+- [Flipboard: @Balancer](https://flipboard.com/@Balancer) (6)
+- [Pinterest: balancer73](https://ru.pinterest.com/balancer73/) (5)
+- [Tumblr](http://balancer73.tumblr.com/) (4?)
+- [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/) (2)
+- [Disqus: balancer73](https://disqus.com/by/balancer73/) (0)
+
 - [Reddit](https://www.reddit.com/user/Balancer73/)
-- [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
+
 - [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси](https://proxy.zeronet.a0z.ru/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/))
 - RetroShare — подумать над ссылками
 
@@ -33,6 +33,8 @@
 
 ## Специализированные ресурсы
 
+- [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA) (123)
+- [Instagram: Balancer73](https://www.instagram.com/balancer73/) (73)
 - [Linux.Org.Ru](https://www.linux.org.ru/people/KRoN73/)
 
 ## Всякая p2p-экзотика
