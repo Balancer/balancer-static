@@ -12,7 +12,8 @@
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
-- [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/)
+- [ZeroNet: Balancer's 
+Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси]())
 - RetroShare — подумать над ссылками
 
 ## Англоязычные
