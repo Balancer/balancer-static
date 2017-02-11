@@ -27,3 +27,4 @@
 ## Всякая p2p-экзотика
 
 - [GNUSocial](https://quitter.no/balancer)
+- [Diaspore](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
