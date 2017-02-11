@@ -11,6 +11,7 @@
 - [Twitter](https://twitter.com/balancer73)
 - [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
 - [Instagram: Balancer73](https://www.instagram.com/balancer73/)
+- [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/)
 - [Tumblr](http://balancer73.tumblr.com/)
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
