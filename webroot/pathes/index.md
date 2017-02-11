@@ -6,6 +6,7 @@
 - [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!)
 - [Вконтакте](https://vk.com/balancer)
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/
+- [Одноклассники](https://ok.ru/profile/22648499178)
 - [Juick](http://juick.com/Balancer/)
 - [Twitter](https://twitter.com/balancer73)
 - [Tumblr](http://balancer73.tumblr.com/)
