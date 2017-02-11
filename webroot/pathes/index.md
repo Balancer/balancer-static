@@ -19,3 +19,4 @@
 
 - [En.Forums.Wrk.Ru](http://en.forums.wrk.ru/)
 - [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=60)
+- [PF](http://www.politicalforum.com/other-off-topic-chat/412256-russia-photos-without-politics-14.html)
