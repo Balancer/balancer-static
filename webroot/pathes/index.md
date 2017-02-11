@@ -2,10 +2,10 @@
 
 ## Русскоязычные:
 
-- [Facebook](https://vk.com/balancer)
-- [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!)
-- [Вконтакте](https://vk.com/balancer)
-- [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/
+- [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!) (525)
+- [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
+- [Facebook](https://vk.com/balancer) (20)
+- [Вконтакте](https://vk.com/balancer) (20)
 - [Одноклассники](https://ok.ru/profile/22648499178)
 - [Juick](http://juick.com/Balancer/)
 - [Twitter](https://twitter.com/balancer73)
