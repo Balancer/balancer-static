@@ -23,3 +23,7 @@
 - [PF](http://www.politicalforum.com/other-off-topic-chat/412256-russia-photos-without-politics-14.html)
 - [Google+](https://plus.google.com/111205326799667468448)
 - [Twitter](https://twitter.com/Balancer_eng)
+
+## Всякая p2p-экзотика
+
+- [GNUSocial](https://quitter.no/balancer)
