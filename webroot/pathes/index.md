@@ -3,12 +3,12 @@
 ## Русскоязычные:
 
 - [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!) (525)
+- [Twitter](https://twitter.com/balancer73) (226)
+- [Juick](http://juick.com/Balancer/) (133)
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
+- [Одноклассники](https://ok.ru/profile/22648499178) (62)
 - [Facebook](https://vk.com/balancer) (20)
 - [Вконтакте](https://vk.com/balancer) (20)
-- [Одноклассники](https://ok.ru/profile/22648499178)
-- [Juick](http://juick.com/Balancer/)
-- [Twitter](https://twitter.com/balancer73)
 - [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
 - [Instagram: Balancer73](https://www.instagram.com/balancer73/)
 - [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/)
