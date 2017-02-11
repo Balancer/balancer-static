@@ -7,6 +7,7 @@
 - [Juick](http://juick.com/Balancer/) (133)
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
 - [Одноклассники](https://ok.ru/profile/22648499178) (62)
+- [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси](https://proxy.zeronet.a0z.ru/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/)) (33)
 - [Facebook](https://vk.com/balancer) (20)
 - [Вконтакте](https://vk.com/balancer) (20)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/) (12)
@@ -19,7 +20,6 @@
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
 
-- [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси](https://proxy.zeronet.a0z.ru/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/))
 - RetroShare — подумать над ссылками
 
 ## Англоязычные
