@@ -9,6 +9,7 @@
 - [Одноклассники](https://ok.ru/profile/22648499178)
 - [Juick](http://juick.com/Balancer/)
 - [Twitter](https://twitter.com/balancer73)
+- [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA)
 - [Tumblr](http://balancer73.tumblr.com/)
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/)
