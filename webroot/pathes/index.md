@@ -42,7 +42,6 @@
 
 - [GNUSocial](https://quitter.no/balancer)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
-- https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c
 - https://nl.movim.eu/?blog/balancer@movim.eu/
 - Twister: @balancer
 
