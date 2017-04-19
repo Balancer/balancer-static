@@ -21,7 +21,7 @@
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
 
-- RetroShare — подумать над ссылками
+- RetroShare [TODO: подумать над ссылками]
 
 ## Англоязычные
 
@@ -44,6 +44,7 @@
 - [GNUSocial2](https://quitter.se/balancer)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
 - https://nl.movim.eu/?blog/balancer@movim.eu/
+- Pathwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519
 - Twister: @balancer
 
 ## Мессенджеры
