@@ -43,10 +43,10 @@
 
 ## Всякая p2p-экзотика
 
-- [GNUSocial](https://quitter.no/balancer)
+- [Mastodon](https://mastodon.blue/@Balancer) (10)
+- [GNUSocial](https://quitter.no/balancer) (8)
 - [GNUSocial - левый аккаунт](https://quitter.se/balancer)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
-- [Mastodon](https://mastodon.blue/@Balancer)
 - [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
 - Patchwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519
 - Twister: @balancer
