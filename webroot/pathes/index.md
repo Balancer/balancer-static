@@ -44,7 +44,7 @@
 - [GNUSocial2](https://quitter.se/balancer)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
 - [Mastodon](https://mastodon.blue/@Balancer)
-- https://nl.movim.eu/?blog/balancer@movim.eu/
+- [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
 - Pathwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519
 - Twister: @balancer
 
