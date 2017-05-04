@@ -28,7 +28,7 @@
 - [Facebook](https://www.facebook.com/roman.karshiev.9)
 - [En.Forums.Wrk.Ru](http://en.forums.wrk.ru/)
 - [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=100)
-- [PF](http://www.politicalforum.com/other-off-topic-chat/412256-russia-photos-without-politics-14.html)
+- [PF](http://www.politicalforum.com/index.php?threads/russia-in-photos-without-politics.412256/page-8)
 - [Google+](https://plus.google.com/111205326799667468448) (1)
 - [Twitter](https://twitter.com/Balancer_eng) (1)
 
