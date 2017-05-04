@@ -43,7 +43,7 @@
 
 ## Всякая p2p-экзотика
 
-- [Mastodon](https://mastodon.blue/@Balancer) (10)
+- [Mastodon](https://mastodon.blue/@Balancer) — Balancer@mastodon.blue (10)
 - [GNUSocial](https://quitter.no/balancer) (8)
 - [GNUSocial - левый аккаунт](https://quitter.se/balancer)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
