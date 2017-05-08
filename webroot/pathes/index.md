@@ -35,7 +35,7 @@
 
 ## Специализированные ресурсы
 
-- [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA) (123)
+- [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA) (122)
 - [Instagram: Balancer73](https://www.instagram.com/balancer73/) (73)
 - [Linux.Org.Ru](https://www.linux.org.ru/people/KRoN73/)
 - [LinkedIn](https://www.linkedin.com/in/balancer/)
