@@ -25,12 +25,13 @@
 
 ## Англоязычные
 
-- [Facebook](https://www.facebook.com/roman.karshiev.9)
+- [Facebook](https://www.facebook.com/roman.karshiev.9) (7)
+- [Steemit](https://steemit.com/@balancer) (1)
 - [En.Forums.Wrk.Ru](http://en.forums.wrk.ru/)
-- [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=100)
-- [PF](http://www.politicalforum.com/index.php?threads/russia-in-photos-without-politics.412256/page-8)
 - [Google+](https://plus.google.com/111205326799667468448) (1)
 - [Twitter](https://twitter.com/Balancer_eng) (1)
+- [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=100)
+- [PF](http://www.politicalforum.com/index.php?threads/russia-in-photos-without-politics.412256/page-8)
 
 ## Специализированные ресурсы
 
@@ -43,12 +44,12 @@
 
 ## Всякая p2p-экзотика
 
-- [Mastodon](https://mastodon.blue/@Balancer) — Balancer@mastodon.blue (10)
-- [GNUSocial](https://quitter.no/balancer) (8)
-- [GNUSocial - левый аккаунт](https://quitter.se/balancer)
-- [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c)
-- [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
+- [Mastodon](https://mastodon.blue/@Balancer) — Balancer@mastodon.blue (16)
+- [GNUSocial](https://quitter.no/balancer) (10)
 - Patchwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519 (4)
+- [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c) (0)
+- [GNUSocial - левый аккаунт](https://quitter.se/balancer)
+- [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
 - Twister: @balancer
 
 ## Мессенджеры
