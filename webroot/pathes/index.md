@@ -15,6 +15,7 @@
 - [Pinterest: balancer73](https://ru.pinterest.com/balancer73/) (5)
 - [Tumblr](http://balancer73.tumblr.com/) (4?)
 - [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/) (2)
+- [Golos.io](https://golos.io/@balancer) (0)
 - [Disqus: balancer73](https://disqus.com/by/balancer73/) (0)
 - http://airbase-ru.blogspot.ru/
 
