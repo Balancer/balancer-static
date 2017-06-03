@@ -33,6 +33,7 @@
 - [Twitter](https://twitter.com/Balancer_eng) (1)
 - [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=100)
 - [PF](http://www.politicalforum.com/index.php?threads/russia-in-photos-without-politics.412256/page-8)
+- [Заготовка англоязычного блога под WordPress](https://balanceng.wordpress.com/)
 
 ## Специализированные ресурсы
 
