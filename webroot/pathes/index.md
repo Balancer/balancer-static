@@ -54,6 +54,10 @@
 - [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
 - Twister: @balancer
 
+## Пока не используются:
+
+- https://www.minds.com/Balancer
+
 ## Мессенджеры
 
 - [Telegram: Balancer](https://t.me/balancer)
