@@ -15,7 +15,7 @@
 - [Tumblr](http://balancer73.tumblr.com/) (4?)
 - [Flickr: Balancer73](https://www.flickr.com/photos/39045986@N08/) (2)
 - [Disqus: balancer73](https://disqus.com/by/balancer73/) (0)
-- http://airbase-ru.blogspot.ru/
+- <http://airbase-ru.blogspot.ru/>
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
 
