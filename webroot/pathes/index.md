@@ -43,6 +43,10 @@
 - Twister: @balancer
 - RetroShare [TODO: подумать над ссылками]
 
+## Добавить
+
+- Chain.BB — форум на Blockchain Steemit.
+
 ## Специализированные ресурсы
 
 - [YouTube](https://www.youtube.com/channel/UCNtclu0DvBOkjbVYhZZUcdA) (122)
