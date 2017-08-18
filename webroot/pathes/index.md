@@ -38,7 +38,7 @@
 - [Steemit](https://steemit.com/@balancer) (0)
 - [Golos.io](https://golos.io/@balancer) (0)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c) (0)
-- [GNUSocial - левый аккаунт](https://quitter.se/balancer)
+- [GNUSocial - не используемый аккаунт](https://quitter.se/balancer)
 - [Movim](https://nl.movim.eu/?blog/balancer@movim.eu/)
 - Twister: @balancer
 - RetroShare [TODO: подумать над ссылками]
