@@ -34,7 +34,7 @@
 - [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси](https://proxy.zeronet.a0z.ru/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/)) (275)
 - [Mastodon](https://mastodon.blue/@Balancer) — Balancer@mastodon.blue (18)
 - [GNUSocial](https://quitter.no/balancer) (13)
-- Patchwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519 (4)
+- SSB Patchwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519 (4)
 - [Steemit](https://steemit.com/@balancer) (0)
 - [Golos.io](https://golos.io/@balancer) (0)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c) (0)
