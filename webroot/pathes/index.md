@@ -36,7 +36,7 @@
 - [Golos.io](https://golos.io/@balancer) (0)
 - RetroShare [TODO: подумать над ссылками]
 - [Mastodon](https://mastodon.blue/@Balancer) — Balancer@mastodon.blue (18)
-- [GNUSocial](https://quitter.no/balancer) (10)
+- [GNUSocial](https://quitter.no/balancer) (13)
 - Patchwork: @jNa3vLqX8ljectgDrWEs1ZJSNZCKyojMXLiblXqmyo4=.ed25519 (4)
 - [Diaspora](https://pod.geraspora.de/people/575cb460f8be013213e44860008dbc6c) (0)
 - [GNUSocial - левый аккаунт](https://quitter.se/balancer)
