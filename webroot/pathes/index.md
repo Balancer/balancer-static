@@ -6,7 +6,7 @@
 - [Twitter](https://twitter.com/balancer73) (225)
 - [Juick](http://juick.com/Balancer/) (136)
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
-- [Facebook](https://www.facebook.com/balancer73) (102)
+- [Facebook](https://www.facebook.com/balancer73) (104)
 - [Одноклассники](https://ok.ru/profile/22648499178) (62)
 - [ZeroNet: Balancer's Blog](http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/) ([прокси](https://proxy.zeronet.a0z.ru/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/)) (33)
 - [Вконтакте](https://vk.com/balancer) (20)
