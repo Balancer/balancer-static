@@ -8,7 +8,7 @@
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
 - [Facebook](https://www.facebook.com/balancer73) (104)
 - [Одноклассники](https://ok.ru/profile/22648499178) (62)
-- [Вконтакте](https://vk.com/balancer) (20)
+- [Вконтакте](https://vk.com/balancer) (21)
 - [LSBR](http://ls.balancer.ru/profile/Balancer/created/topics/) (12)
 - [Flipboard: @Balancer](https://flipboard.com/@Balancer) (6)
 - [Pinterest: balancer73](https://ru.pinterest.com/balancer73/) (5)
