@@ -1,10 +1,10 @@
 # Тропинки
 
-## Русскоязычные:
+## Русскоязычные централизованные
 
-- [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!) (525)
-- [Twitter](https://twitter.com/balancer73) (226)
-- [Juick](http://juick.com/Balancer/) (133)
+- [Google+](https://plus.google.com/113730597040634449637) (проверить круг перед постингом!) (522)
+- [Twitter](https://twitter.com/balancer73) (225)
+- [Juick](http://juick.com/Balancer/) (136)
 - [Livejournal](http://bal.livejournal.com/) — трансляция из G+ через http://rss2lj.net/ (129)
 - [Facebook](https://www.facebook.com/balancer73) (102)
 - [Одноклассники](https://ok.ru/profile/22648499178) (62)
