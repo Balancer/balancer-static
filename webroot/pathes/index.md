@@ -18,7 +18,6 @@
 - [Reddit](https://www.reddit.com/user/Balancer73/)
 - [WordPress](https://balancer73.wordpress.com/) — трансляция из FB через IFTTT? — судя по всему, криво. Из G+ тоже?
 
-
 ## Англоязычные централизованные
 
 - [Facebook](https://www.facebook.com/roman.karshiev.9) (7)
@@ -28,6 +27,7 @@
 - [PoFo](https://www.politicsforum.org/forum/viewtopic.php?f=41&t=166620&start=100)
 - [PF](http://www.politicalforum.com/index.php?threads/russia-in-photos-without-politics.412256/page-8)
 - [Заготовка англоязычного блога под WordPress](https://balanceng.wordpress.com/)
+- [Medium](https://medium.com/@Balancer) — не используется
 
 ## Распределённые (p2p, федеративные и т.п.)
 
